@@ -1,1 +1,1 @@
-Wodo - Multilingual wordle
+Wodo - Multilingual and multiplayer wordle
